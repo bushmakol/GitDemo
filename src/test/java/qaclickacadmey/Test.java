@@ -9,6 +9,11 @@ public class Test {
 		System.out.println("Heloo 3 by Git Demo");
 		System.out.println("Added by gitx branch1");
 		System.out.println("Added by gitdemo in branch1");
+		
+		System.out.println("Getdemo1");
+		System.out.println("Getdemo2");
+		System.out.println("Getdemo3");
+
 
 	}  
 
